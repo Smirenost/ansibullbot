@@ -1,0 +1,28 @@
+{
+	"dockerfiles": {},
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "mongo",
+				"tag": "latest",
+				"digest": "df9eca84736a666d5f7e7a09aeb8a6d8d073698d5b7349400f10ee75812e0e95",
+				"serviceName": "database",
+				"dockerfile": ""
+			},
+			{
+				"name": "rabbitmq",
+				"tag": "latest",
+				"digest": "11b1b3443e1110591a1ab09ecd229669712161e21e7fdaff98575a4af09c8311",
+				"serviceName": "rabbit",
+				"dockerfile": ""
+			},
+			{
+				"name": "python",
+				"tag": "2",
+				"digest": "cfa62318c459b1fde9e0841c619906d15ada5910d625176e24bf692cf8a2601d",
+				"serviceName": "schemavalidator",
+				"dockerfile": "botmeta_schema_validator/Dockerfile"
+			}
+		]
+	}
+}
