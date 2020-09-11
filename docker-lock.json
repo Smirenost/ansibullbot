@@ -5,7 +5,7 @@
 			{
 				"name": "mongo",
 				"tag": "latest",
-				"digest": "77f3d623d475c56ab43d61864bc3aa610953869724dbbea325989a0718741d1c",
+				"digest": "7783ffbbd87de7ea819c214ee2e8e17297bae842a47fa7b25deb1ac3800cbb46",
 				"serviceName": "database",
 				"dockerfile": ""
 			},
