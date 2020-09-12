@@ -12,7 +12,7 @@
 			{
 				"name": "rabbitmq",
 				"tag": "latest",
-				"digest": "06b81155b9f69c8afcabee09cf74ca3d1ecf83e45e60ecff5d71daa0e67bb7b1",
+				"digest": "44e4ec301408867369154c5e0ec7fdd6316918987f0f20deb15f08068ee25350",
 				"serviceName": "rabbit",
 				"dockerfile": ""
 			},
