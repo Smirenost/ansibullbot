@@ -5,14 +5,14 @@
 			{
 				"name": "mongo",
 				"tag": "latest",
-				"digest": "ebcdb042054d9974c8c3160d761b0bdb39b55115448242de1a5161c124ddb0af",
+				"digest": "d04601593b2bb0b0e569478e99663561e245982bd43174fe1a2cd52792613674",
 				"serviceName": "database",
 				"dockerfile": ""
 			},
 			{
 				"name": "rabbitmq",
 				"tag": "latest",
-				"digest": "70743ea91b9462f08b7259a2c1f7be9963b67fef58576d4dc3f52680b4910cf4",
+				"digest": "7c08a46593654367f8d3c317336881cc658c8b77021229467288362465e687b9",
 				"serviceName": "rabbit",
 				"dockerfile": ""
 			},
