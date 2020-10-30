@@ -4,19 +4,19 @@
 			{
 				"name": "mongo",
 				"tag": "latest",
-				"digest": "efc408845bc917d0b7fd97a8590e9c8d3c314f58cee651bd3030c9cf2ce9032d",
+				"digest": "",
 				"service": "database"
 			},
 			{
 				"name": "rabbitmq",
 				"tag": "latest",
-				"digest": "3da3bcd2167a1fc9bdbbc40ec0ae2b195df5df05e3c10c64569c969cb3d86435",
+				"digest": "",
 				"service": "rabbit"
 			},
 			{
 				"name": "python",
 				"tag": "2",
-				"digest": "cfa62318c459b1fde9e0841c619906d15ada5910d625176e24bf692cf8a2601d",
+				"digest": "",
 				"dockerfile": "botmeta_schema_validator/Dockerfile",
 				"service": "schemavalidator"
 			}
