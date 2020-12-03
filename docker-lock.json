@@ -4,7 +4,7 @@
 			{
 				"name": "mongo",
 				"tag": "latest",
-				"digest": "d54fb51a493131117a8b85a2d46ed7d64a2cb79607fb3ce350d1722c0cafc812",
+				"digest": "7ab905728ac01b90a72e3b38514778e54d798c3e0637283a260a76c312a67b34",
 				"service": "database"
 			},
 			{
