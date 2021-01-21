@@ -4,13 +4,13 @@
 			{
 				"name": "mongo",
 				"tag": "latest",
-				"digest": "001400644bfc27b5da634ee09b95b4129566e2d4dccb6d27bd403b10cff9191b",
+				"digest": "9dc45e298f16c386ad38f3938ce21914e8f6661674f446b9439e5e4e84c5fa88",
 				"service": "database"
 			},
 			{
 				"name": "rabbitmq",
 				"tag": "latest",
-				"digest": "c58f20dbc547558852b1ae841195d1ef456891f4e58fad2c20c7ecc903992d98",
+				"digest": "b52792e50f380f33816df201f5dadd4d9cba81e1fd8296bfe84dc73037c2913e",
 				"service": "rabbit"
 			},
 			{
