@@ -10,7 +10,7 @@
 			{
 				"name": "rabbitmq",
 				"tag": "latest",
-				"digest": "528bb0136d1823f83074d4d4c0c669a0c65ff965aae84cc0220e97f1dc95a6f5",
+				"digest": "7171449b5c385ac37622958ee8527e8c94295cab21172a8dc077c192790f166c",
 				"service": "rabbit"
 			},
 			{
